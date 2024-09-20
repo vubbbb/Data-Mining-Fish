@@ -1,0 +1,5 @@
+search_queries = [
+    "Goldfish fish", "Betta fish", "Discus fish", "Neon fish",
+    "Guppy fish", "Koi fish", "Oscar fish", "Flowerhorn fish",
+    "Platy fish", "Corydoras fish"
+]
